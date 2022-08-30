@@ -1,7 +1,7 @@
 # **My Vulnerability List**
 
-**assigned:149**  
+**assigned:152**  
 **shared:3+2**  
-**currently applying:11**  
+**currently applying:7**  
 **vendor disclosure:9**  
 **error:1**  
