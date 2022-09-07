@@ -2,7 +2,7 @@
 
 **CVEs:141**  
 **CVEs shared:3+2**  
-**currently applying:43**  
+**currently applying:47**  
 
 **PSVs:11**  
 **netgear applying:1**  
