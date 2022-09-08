@@ -4,9 +4,9 @@
 **CVEs shared:3+2**  
 **currently applying:47**  
 
-**PSVs:11**  
-**netgear applying:1+3**  
-**netgear duplicate:10**  
+**PSVs:12**  
+**netgear applying:1**  
+**netgear duplicate:12**  
 **netgear duplicate && bugs:3**   
 
 **d-link saved:9**  
