@@ -5,8 +5,7 @@
 **Vendor provides formal acknowledgment:56**  
 
 **PSVs:12**  
-**netgear applying:1**  
-**netgear duplicate:12**  
+**netgear duplicate:13**  
 **netgear duplicate && bugs:3**   
 
 **d-link saved:9**  
